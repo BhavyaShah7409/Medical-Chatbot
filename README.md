@@ -1,4 +1,6 @@
 # Medical-Chatbot
+![ss1](https://github.com/BhavyaShah7409/Medical-Chatbot/assets/132221009/2d0c8552-b676-42b7-bc96-30462b2c480b)
+![ss2](https://github.com/BhavyaShah7409/Medical-Chatbot/assets/132221009/fbe3bccd-ba0f-499b-b2b9-bdc8f8548459)
 ## Medical Chatbot with Generative AI
 
 This project implements a medical chatbot using a combination of powerful technologies for natural language processing (NLP) and generative AI. 
