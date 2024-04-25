@@ -20,13 +20,13 @@ This project implements a medical chatbot using a combination of powerful techno
 
 ### Installation
 
-step 1 : create a virtual environment(use anaconda)
-step 2 : clone the repository and open in terminal
-step 3 : run command 'pip install -r requirements.txt'
-step 4 : create a .env file at the root directory and add your pinecone credentials as :
+1. create a virtual environment(use anaconda)
+2. clone the repository and open in terminal
+3. run command 'pip install -r requirements.txt'
+4. create a .env file at the root directory and add your pinecone credentials as :
         PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
         PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-step 5 : download 'llama-2-7b-chat.ggmlv3.q4_0.bin' from the link : https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+5. download 'llama-2-7b-chat.ggmlv3.q4_0.bin' from the link : https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
         and create a folder in root directory named 'mode' and paste the downloaded file inside this model folder.
 
 ### Running the Chatbot
